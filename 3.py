@@ -21,3 +21,4 @@ def desencriptaParrafo():
     print(parrafoDesencriptado)
 encriptaParrafo()
 desencriptaParrafo()
+archivo.close()
